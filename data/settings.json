@@ -154,7 +154,7 @@
 					{
 						"name": "Leetcode",
 						"url": "https://leetcode.com/problemset/",
-						"icon": "simple-icons:logo-dev"
+						"icon": "simple-icons:leetcode"
 					},
 					{
 						"name": "Stack Overflow",
@@ -230,7 +230,7 @@
 					{
 						"name": "DeepSeek",
 						"url": "https://chat.deepseek.com/",
-						"icon": "simple-icons:person-simple-tai-chi"
+						"icon": "ph:person-simple-tai-chi"
 					}
 				]
 			},
