@@ -177,12 +177,12 @@
 						"name": "Dev.to",
 						"url": "https://dev.to/",
 						"icon": "simple-icons:devdotto"
-					}
+					},
 					{
 						"name": "LinkedIn",
 						"url": "https://www.linkedin.com/feed/",
 						"icon": "ph:linkedin-logo"
-					}
+					},
 					{
 						"name": "HiringCafe",
 						"url": "https://hiring.cafe/",
