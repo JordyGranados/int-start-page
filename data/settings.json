@@ -133,6 +133,11 @@
 						"name": "Gmail",
 						"url": "https://mail.google.com/mail/u/0/#inbox",
 						"icon": "simple-icons:gmail"
+					},
+					{
+						"name": "NetAcad",
+						"url": "https://www.netacad.com/dashboard",
+						"icon": "simple-icons:cisco"
 					}
 				]
 			},
