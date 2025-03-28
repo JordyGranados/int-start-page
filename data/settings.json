@@ -245,7 +245,7 @@
 				]
 			},
 			{
-				"title": "Law",
+				"title": "Werk Werk",
 				"color": "yellow",
 				"align": "left",
 				"links": [
@@ -260,9 +260,9 @@
 						"icon": "simple-icons:prdotco"
 					},
 					{
-						"name": "RPC NL",
-						"url": "https://egobierno.nl.gob.mx/egob/servicios/serviciosLogin.php",
-						"icon": "simple-icons:lionair"
+						"name": "Zep",
+						"url": "https://zep.us/play/gGWlOw",
+						"icon": "simple-icons:openzeppelin"
 					},
 					{
 						"name": "RPC JAL",
