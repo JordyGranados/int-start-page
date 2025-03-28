@@ -233,9 +233,9 @@
 						"icon": "simple-icons:openai"
 					},
 					{
-						"name": "Perplexity",
-						"url": "https://www.perplexity.ai/",
-						"icon": "simple-icons:perplexity"
+						"name": "AIStudio",
+						"url": "https://aistudio.google.com/prompts/new_chat",
+						"icon": "simple-icons:googlegemini"
 					},
 					{
 						"name": "DeepSeek",
