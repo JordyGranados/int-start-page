@@ -1,6 +1,6 @@
 {
-	"username": "Excalith",
-	"title": "Excalith Start Page",
+	"username": "Jordy",
+	"title": "Jordy Start Page",
 	"theme": {
 		"name": "Default",
 		"backgroundColor": "#121317",
@@ -135,9 +135,9 @@
 						"icon": "simple-icons:gmail"
 					},
 					{
-						"name": "NetAcad",
-						"url": "https://www.netacad.com/dashboard",
-						"icon": "simple-icons:cisco"
+						"name": "USACO",
+						"url": "https://usaco.guide/dashboard",
+						"icon": "simple-icons:vsco"
 					}
 				]
 			},
@@ -162,9 +162,9 @@
 						"icon": "simple-icons:leetcode"
 					},
 					{
-						"name": "Stack Overflow",
-						"url": "https://stackoverflow.com/",
-						"icon": "mdi:stack-overflow"
+						"name": "Daily Dev",
+						"url": "https://app.daily.dev/",
+						"icon": "simple-icons:dailydotdev"
 					}
 				]
 			},
@@ -206,9 +206,9 @@
 						"icon": "simple-icons:udemy"
 					},
 					{
-						"name": "Cisco NetAcad",
-						"url": "https://www.netacad.com/dashboard",
-						"icon": "simple-icons:cisco"
+						"name": "Codeforces",
+						"url": "https://codeforces.com/",
+						"icon": "simple-icons:codeforces"
 					},
 					{
 						"name": "YouTube",
@@ -243,9 +243,9 @@
 						"icon": "simple-icons:googlegemini"
 					},
 					{
-						"name": "DeepSeek",
-						"url": "https://chat.deepseek.com/",
-						"icon": "ph:person-simple-tai-chi"
+						"name": "Gemini",
+						"url": "https://gemini.google.com/",
+						"icon": "simple-icons:googlegemini"
 					}
 				]
 			},
